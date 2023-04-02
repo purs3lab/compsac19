@@ -1,0 +1,564 @@
+Making all in lib
+remake[1]: Entering directory '/home/shank/code/research/compsac19/APIMU4C/curl-curl-7_63_0/lib'
+remake  all-am
+remake[2]: Entering directory '/home/shank/code/research/compsac19/APIMU4C/curl-curl-7_63_0/lib'
+  CC       libcurl_la-file.lo
+[0;36mSanitizerCoveragePCGUARD++4.05a[0m
+[1;92m[+] [0mInstrumented 92 locations with no collisions (non-hardened mode) of which are 1 handled and 0 unhandled selects.[0m
+  CC       libcurl_la-timeval.lo
+[0;36mSanitizerCoveragePCGUARD++4.05a[0m
+[1;92m[+] [0mInstrumented 11 locations with no collisions (non-hardened mode) of which are 0 handled and 0 unhandled selects.[0m
+  CC       libcurl_la-base64.lo
+[0;36mSanitizerCoveragePCGUARD++4.05a[0m
+[1;92m[+] [0mInstrumented 42 locations with no collisions (non-hardened mode) of which are 0 handled and 0 unhandled selects.[0m
+  CC       libcurl_la-hostip.lo
+[0;36mSanitizerCoveragePCGUARD++4.05a[0m
+[1;92m[+] [0mInstrumented 160 locations with no collisions (non-hardened mode) of which are 1 handled and 0 unhandled selects.[0m
+  CC       libcurl_la-progress.lo
+[0;36mSanitizerCoveragePCGUARD++4.05a[0m
+[1;92m[+] [0mInstrumented 110 locations with no collisions (non-hardened mode) of which are 0 handled and 0 unhandled selects.[0m
+  CC       libcurl_la-formdata.lo
+[0;36mSanitizerCoveragePCGUARD++4.05a[0m
+[1;92m[+] [0mInstrumented 272 locations with no collisions (non-hardened mode) of which are 0 handled and 0 unhandled selects.[0m
+  CC       libcurl_la-cookie.lo
+[0;36mSanitizerCoveragePCGUARD++4.05a[0m
+[1;92m[+] [0mInstrumented 461 locations with no collisions (non-hardened mode) of which are 13 handled and 0 unhandled selects.[0m
+  CC       libcurl_la-http.lo
+[0;36mSanitizerCoveragePCGUARD++4.05a[0m
+[1;92m[+] [0mInstrumented 1058 locations with no collisions (non-hardened mode) of which are 24 handled and 0 unhandled selects.[0m
+  CC       libcurl_la-sendf.lo
+[0;36mSanitizerCoveragePCGUARD++4.05a[0m
+[1;92m[+] [0mInstrumented 126 locations with no collisions (non-hardened mode) of which are 0 handled and 0 unhandled selects.[0m
+  CC       libcurl_la-ftp.lo
+[0;36mSanitizerCoveragePCGUARD++4.05a[0m
+[1;92m[+] [0mInstrumented 958 locations with no collisions (non-hardened mode) of which are 18 handled and 0 unhandled selects.[0m
+  CC       libcurl_la-url.lo
+[0;36mSanitizerCoveragePCGUARD++4.05a[0m
+[1;92m[+] [0mInstrumented 966 locations with no collisions (non-hardened mode) of which are 12 handled and 0 unhandled selects.[0m
+  CC       libcurl_la-dict.lo
+[0;36mSanitizerCoveragePCGUARD++4.05a[0m
+[1;92m[+] [0mInstrumented 56 locations with no collisions (non-hardened mode) of which are 0 handled and 0 unhandled selects.[0m
+  CC       libcurl_la-if2ip.lo
+[0;36mSanitizerCoveragePCGUARD++4.05a[0m
+[1;92m[+] [0mInstrumented 31 locations with no collisions (non-hardened mode) of which are 0 handled and 0 unhandled selects.[0m
+  CC       libcurl_la-speedcheck.lo
+[0;36mSanitizerCoveragePCGUARD++4.05a[0m
+[1;92m[+] [0mInstrumented 10 locations with no collisions (non-hardened mode) of which are 0 handled and 0 unhandled selects.[0m
+  CC       libcurl_la-ldap.lo
+[0;36mSanitizerCoveragePCGUARD++4.05a[0m
+[1;93m[!] [1;97mWARNING: [0mNo instrumentation targets found.[0m
+  CC       libcurl_la-version.lo
+[0;36mSanitizerCoveragePCGUARD++4.05a[0m
+[1;92m[+] [0mInstrumented 15 locations with no collisions (non-hardened mode) of which are 0 handled and 0 unhandled selects.[0m
+  CC       libcurl_la-getenv.lo
+[0;36mSanitizerCoveragePCGUARD++4.05a[0m
+[1;92m[+] [0mInstrumented 5 locations with no collisions (non-hardened mode) of which are 0 handled and 0 unhandled selects.[0m
+  CC       libcurl_la-escape.lo
+[0;36mSanitizerCoveragePCGUARD++4.05a[0m
+[1;92m[+] [0mInstrumented 104 locations with no collisions (non-hardened mode) of which are 0 handled and 0 unhandled selects.[0m
+  CC       libcurl_la-mprintf.lo
+[0;36mSanitizerCoveragePCGUARD++4.05a[0m
+[1;92m[+] [0mInstrumented 327 locations with no collisions (non-hardened mode) of which are 6 handled and 0 unhandled selects.[0m
+  CC       libcurl_la-telnet.lo
+[0;36mSanitizerCoveragePCGUARD++4.05a[0m
+[1;92m[+] [0mInstrumented 310 locations with no collisions (non-hardened mode) of which are 2 handled and 0 unhandled selects.[0m
+  CC       libcurl_la-netrc.lo
+[0;36mSanitizerCoveragePCGUARD++4.05a[0m
+[1;92m[+] [0mInstrumented 69 locations with no collisions (non-hardened mode) of which are 0 handled and 0 unhandled selects.[0m
+  CC       libcurl_la-getinfo.lo
+[0;36mSanitizerCoveragePCGUARD++4.05a[0m
+[1;92m[+] [0mInstrumented 121 locations with no collisions (non-hardened mode) of which are 1 handled and 0 unhandled selects.[0m
+  CC       libcurl_la-transfer.lo
+[0;36mSanitizerCoveragePCGUARD++4.05a[0m
+[1;92m[+] [0mInstrumented 418 locations with no collisions (non-hardened mode) of which are 4 handled and 0 unhandled selects.[0m
+  CC       libcurl_la-strcase.lo
+[0;36mSanitizerCoveragePCGUARD++4.05a[0m
+[1;92m[+] [0mInstrumented 33 locations with no collisions (non-hardened mode) of which are 0 handled and 0 unhandled selects.[0m
+  CC       libcurl_la-easy.lo
+[0;36mSanitizerCoveragePCGUARD++4.05a[0m
+[1;92m[+] [0mInstrumented 152 locations with no collisions (non-hardened mode) of which are 3 handled and 0 unhandled selects.[0m
+  CC       libcurl_la-security.lo
+[0;36mSanitizerCoveragePCGUARD++4.05a[0m
+[1;93m[!] [1;97mWARNING: [0mNo instrumentation targets found.[0m
+  CC       libcurl_la-curl_fnmatch.lo
+[0;36mSanitizerCoveragePCGUARD++4.05a[0m
+[1;92m[+] [0mInstrumented 6 locations with no collisions (non-hardened mode) of which are 0 handled and 0 unhandled selects.[0m
+  CC       libcurl_la-fileinfo.lo
+[0;36mSanitizerCoveragePCGUARD++4.05a[0m
+[1;92m[+] [0mInstrumented 4 locations with no collisions (non-hardened mode) of which are 0 handled and 0 unhandled selects.[0m
+  CC       libcurl_la-ftplistparser.lo
+[0;36mSanitizerCoveragePCGUARD++4.05a[0m
+[1;92m[+] [0mInstrumented 228 locations with no collisions (non-hardened mode) of which are 1 handled and 0 unhandled selects.[0m
+  CC       libcurl_la-wildcard.lo
+[0;36mSanitizerCoveragePCGUARD++4.05a[0m
+[1;92m[+] [0mInstrumented 7 locations with no collisions (non-hardened mode) of which are 0 handled and 0 unhandled selects.[0m
+  CC       libcurl_la-krb5.lo
+[0;36mSanitizerCoveragePCGUARD++4.05a[0m
+[1;93m[!] [1;97mWARNING: [0mNo instrumentation targets found.[0m
+  CC       libcurl_la-memdebug.lo
+[0;36mSanitizerCoveragePCGUARD++4.05a[0m
+[1;93m[!] [1;97mWARNING: [0mNo instrumentation targets found.[0m
+  CC       libcurl_la-http_chunks.lo
+[0;36mSanitizerCoveragePCGUARD++4.05a[0m
+[1;92m[+] [0mInstrumented 62 locations with no collisions (non-hardened mode) of which are 0 handled and 0 unhandled selects.[0m
+  CC       libcurl_la-strtok.lo
+[0;36mSanitizerCoveragePCGUARD++4.05a[0m
+[1;93m[!] [1;97mWARNING: [0mNo instrumentation targets found.[0m
+  CC       libcurl_la-connect.lo
+[0;36mSanitizerCoveragePCGUARD++4.05a[0m
+[1;92m[+] [0mInstrumented 256 locations with no collisions (non-hardened mode) of which are 4 handled and 0 unhandled selects.[0m
+  CC       libcurl_la-llist.lo
+[0;36mSanitizerCoveragePCGUARD++4.05a[0m
+[1;92m[+] [0mInstrumented 36 locations with no collisions (non-hardened mode) of which are 0 handled and 0 unhandled selects.[0m
+  CC       libcurl_la-hash.lo
+[0;36mSanitizerCoveragePCGUARD++4.05a[0m
+[1;92m[+] [0mInstrumented 57 locations with no collisions (non-hardened mode) of which are 0 handled and 0 unhandled selects.[0m
+  CC       libcurl_la-multi.lo
+[0;36mSanitizerCoveragePCGUARD++4.05a[0m
+[1;92m[+] [0mInstrumented 754 locations with no collisions (non-hardened mode) of which are 16 handled and 0 unhandled selects.[0m
+  CC       libcurl_la-content_encoding.lo
+[0;36mSanitizerCoveragePCGUARD++4.05a[0m
+[1;92m[+] [0mInstrumented 220 locations with no collisions (non-hardened mode) of which are 4 handled and 0 unhandled selects.[0m
+  CC       libcurl_la-share.lo
+[0;36mSanitizerCoveragePCGUARD++4.05a[0m
+[1;92m[+] [0mInstrumented 55 locations with no collisions (non-hardened mode) of which are 0 handled and 0 unhandled selects.[0m
+  CC       libcurl_la-http_digest.lo
+[0;36mSanitizerCoveragePCGUARD++4.05a[0m
+[1;92m[+] [0mInstrumented 30 locations with no collisions (non-hardened mode) of which are 2 handled and 0 unhandled selects.[0m
+  CC       libcurl_la-md4.lo
+[0;36mSanitizerCoveragePCGUARD++4.05a[0m
+[1;93m[!] [1;97mWARNING: [0mNo instrumentation targets found.[0m
+  CC       libcurl_la-md5.lo
+[0;36mSanitizerCoveragePCGUARD++4.05a[0m
+[1;92m[+] [0mInstrumented 7 locations with no collisions (non-hardened mode) of which are 0 handled and 0 unhandled selects.[0m
+  CC       libcurl_la-http_negotiate.lo
+[0;36mSanitizerCoveragePCGUARD++4.05a[0m
+[1;93m[!] [1;97mWARNING: [0mNo instrumentation targets found.[0m
+  CC       libcurl_la-inet_pton.lo
+[0;36mSanitizerCoveragePCGUARD++4.05a[0m
+[1;93m[!] [1;97mWARNING: [0mNo instrumentation targets found.[0m
+  CC       libcurl_la-strtoofft.lo
+[0;36mSanitizerCoveragePCGUARD++4.05a[0m
+[1;92m[+] [0mInstrumented 11 locations with no collisions (non-hardened mode) of which are 0 handled and 0 unhandled selects.[0m
+  CC       libcurl_la-strerror.lo
+[0;36mSanitizerCoveragePCGUARD++4.05a[0m
+[1;92m[+] [0mInstrumented 131 locations with no collisions (non-hardened mode) of which are 0 handled and 0 unhandled selects.[0m
+  CC       libcurl_la-amigaos.lo
+[0;36mSanitizerCoveragePCGUARD++4.05a[0m
+[1;93m[!] [1;97mWARNING: [0mNo instrumentation targets found.[0m
+  CC       libcurl_la-hostasyn.lo
+[0;36mSanitizerCoveragePCGUARD++4.05a[0m
+[1;92m[+] [0mInstrumented 10 locations with no collisions (non-hardened mode) of which are 0 handled and 0 unhandled selects.[0m
+  CC       libcurl_la-hostip4.lo
+[0;36mSanitizerCoveragePCGUARD++4.05a[0m
+[1;93m[!] [1;97mWARNING: [0mNo instrumentation targets found.[0m
+  CC       libcurl_la-hostip6.lo
+[0;36mSanitizerCoveragePCGUARD++4.05a[0m
+[1;92m[+] [0mInstrumented 9 locations with no collisions (non-hardened mode) of which are 1 handled and 0 unhandled selects.[0m
+  CC       libcurl_la-hostsyn.lo
+[0;36mSanitizerCoveragePCGUARD++4.05a[0m
+[1;93m[!] [1;97mWARNING: [0mNo instrumentation targets found.[0m
+  CC       libcurl_la-inet_ntop.lo
+[0;36mSanitizerCoveragePCGUARD++4.05a[0m
+[1;93m[!] [1;97mWARNING: [0mNo instrumentation targets found.[0m
+  CC       libcurl_la-parsedate.lo
+[0;36mSanitizerCoveragePCGUARD++4.05a[0m
+[1;92m[+] [0mInstrumented 112 locations with no collisions (non-hardened mode) of which are 0 handled and 0 unhandled selects.[0m
+  CC       libcurl_la-select.lo
+[0;36mSanitizerCoveragePCGUARD++4.05a[0m
+[1;92m[+] [0mInstrumented 87 locations with no collisions (non-hardened mode) of which are 0 handled and 0 unhandled selects.[0m
+  CC       libcurl_la-tftp.lo
+[0;36mSanitizerCoveragePCGUARD++4.05a[0m
+[1;92m[+] [0mInstrumented 219 locations with no collisions (non-hardened mode) of which are 3 handled and 0 unhandled selects.[0m
+  CC       libcurl_la-splay.lo
+[0;36mSanitizerCoveragePCGUARD++4.05a[0m
+[1;92m[+] [0mInstrumented 76 locations with no collisions (non-hardened mode) of which are 7 handled and 0 unhandled selects.[0m
+  CC       libcurl_la-strdup.lo
+[0;36mSanitizerCoveragePCGUARD++4.05a[0m
+[1;92m[+] [0mInstrumented 7 locations with no collisions (non-hardened mode) of which are 0 handled and 0 unhandled selects.[0m
+  CC       libcurl_la-socks.lo
+[0;36mSanitizerCoveragePCGUARD++4.05a[0m
+[1;92m[+] [0mInstrumented 133 locations with no collisions (non-hardened mode) of which are 4 handled and 0 unhandled selects.[0m
+  CC       libcurl_la-ssh.lo
+[0;36mSanitizerCoveragePCGUARD++4.05a[0m
+[1;93m[!] [1;97mWARNING: [0mNo instrumentation targets found.[0m
+  CC       libcurl_la-ssh-libssh.lo
+[0;36mSanitizerCoveragePCGUARD++4.05a[0m
+[1;93m[!] [1;97mWARNING: [0mNo instrumentation targets found.[0m
+  CC       libcurl_la-curl_addrinfo.lo
+[0;36mSanitizerCoveragePCGUARD++4.05a[0m
+[1;92m[+] [0mInstrumented 60 locations with no collisions (non-hardened mode) of which are 0 handled and 0 unhandled selects.[0m
+  CC       libcurl_la-socks_gssapi.lo
+[0;36mSanitizerCoveragePCGUARD++4.05a[0m
+[1;93m[!] [1;97mWARNING: [0mNo instrumentation targets found.[0m
+  CC       libcurl_la-socks_sspi.lo
+[0;36mSanitizerCoveragePCGUARD++4.05a[0m
+[1;93m[!] [1;97mWARNING: [0mNo instrumentation targets found.[0m
+  CC       libcurl_la-curl_sspi.lo
+[0;36mSanitizerCoveragePCGUARD++4.05a[0m
+[1;93m[!] [1;97mWARNING: [0mNo instrumentation targets found.[0m
+  CC       libcurl_la-slist.lo
+[0;36mSanitizerCoveragePCGUARD++4.05a[0m
+[1;92m[+] [0mInstrumented 20 locations with no collisions (non-hardened mode) of which are 0 handled and 0 unhandled selects.[0m
+  CC       libcurl_la-nonblock.lo
+[0;36mSanitizerCoveragePCGUARD++4.05a[0m
+[1;92m[+] [0mInstrumented 3 locations with no collisions (non-hardened mode) of which are 0 handled and 0 unhandled selects.[0m
+  CC       libcurl_la-curl_memrchr.lo
+[0;36mSanitizerCoveragePCGUARD++4.05a[0m
+[1;92m[+] [0mInstrumented 5 locations with no collisions (non-hardened mode) of which are 0 handled and 0 unhandled selects.[0m
+  CC       libcurl_la-imap.lo
+[0;36mSanitizerCoveragePCGUARD++4.05a[0m
+[1;92m[+] [0mInstrumented 558 locations with no collisions (non-hardened mode) of which are 2 handled and 0 unhandled selects.[0m
+  CC       libcurl_la-pop3.lo
+[0;36mSanitizerCoveragePCGUARD++4.05a[0m
+[1;92m[+] [0mInstrumented 282 locations with no collisions (non-hardened mode) of which are 1 handled and 0 unhandled selects.[0m
+  CC       libcurl_la-smtp.lo
+[0;36mSanitizerCoveragePCGUARD++4.05a[0m
+[1;92m[+] [0mInstrumented 324 locations with no collisions (non-hardened mode) of which are 1 handled and 0 unhandled selects.[0m
+  CC       libcurl_la-pingpong.lo
+[0;36mSanitizerCoveragePCGUARD++4.05a[0m
+[1;92m[+] [0mInstrumented 93 locations with no collisions (non-hardened mode) of which are 1 handled and 0 unhandled selects.[0m
+  CC       libcurl_la-rtsp.lo
+[0;36mSanitizerCoveragePCGUARD++4.05a[0m
+[1;92m[+] [0mInstrumented 189 locations with no collisions (non-hardened mode) of which are 2 handled and 0 unhandled selects.[0m
+  CC       libcurl_la-curl_threads.lo
+[0;36mSanitizerCoveragePCGUARD++4.05a[0m
+[1;92m[+] [0mInstrumented 10 locations with no collisions (non-hardened mode) of which are 0 handled and 0 unhandled selects.[0m
+  CC       libcurl_la-warnless.lo
+[0;36mSanitizerCoveragePCGUARD++4.05a[0m
+[1;92m[+] [0mInstrumented 33 locations with no collisions (non-hardened mode) of which are 0 handled and 0 unhandled selects.[0m
+  CC       libcurl_la-hmac.lo
+[0;36mSanitizerCoveragePCGUARD++4.05a[0m
+[1;92m[+] [0mInstrumented 11 locations with no collisions (non-hardened mode) of which are 0 handled and 0 unhandled selects.[0m
+  CC       libcurl_la-curl_rtmp.lo
+[0;36mSanitizerCoveragePCGUARD++4.05a[0m
+[1;92m[+] [0mInstrumented 28 locations with no collisions (non-hardened mode) of which are 0 handled and 0 unhandled selects.[0m
+  CC       libcurl_la-openldap.lo
+[0;36mSanitizerCoveragePCGUARD++4.05a[0m
+[1;93m[!] [1;97mWARNING: [0mNo instrumentation targets found.[0m
+  CC       libcurl_la-curl_gethostname.lo
+[0;36mSanitizerCoveragePCGUARD++4.05a[0m
+[1;92m[+] [0mInstrumented 4 locations with no collisions (non-hardened mode) of which are 0 handled and 0 unhandled selects.[0m
+  CC       libcurl_la-gopher.lo
+[0;36mSanitizerCoveragePCGUARD++4.05a[0m
+[1;92m[+] [0mInstrumented 14 locations with no collisions (non-hardened mode) of which are 0 handled and 0 unhandled selects.[0m
+  CC       libcurl_la-idn_win32.lo
+[0;36mSanitizerCoveragePCGUARD++4.05a[0m
+[1;93m[!] [1;97mWARNING: [0mNo instrumentation targets found.[0m
+  CC       libcurl_la-http_proxy.lo
+[0;36mSanitizerCoveragePCGUARD++4.05a[0m
+[1;92m[+] [0mInstrumented 156 locations with no collisions (non-hardened mode) of which are 4 handled and 0 unhandled selects.[0m
+  CC       libcurl_la-non-ascii.lo
+[0;36mSanitizerCoveragePCGUARD++4.05a[0m
+[1;93m[!] [1;97mWARNING: [0mNo instrumentation targets found.[0m
+  CC       libcurl_la-asyn-ares.lo
+[0;36mSanitizerCoveragePCGUARD++4.05a[0m
+[1;93m[!] [1;97mWARNING: [0mNo instrumentation targets found.[0m
+  CC       libcurl_la-asyn-thread.lo
+[0;36mSanitizerCoveragePCGUARD++4.05a[0m
+[1;92m[+] [0mInstrumented 82 locations with no collisions (non-hardened mode) of which are 0 handled and 0 unhandled selects.[0m
+  CC       libcurl_la-curl_gssapi.lo
+[0;36mSanitizerCoveragePCGUARD++4.05a[0m
+[1;93m[!] [1;97mWARNING: [0mNo instrumentation targets found.[0m
+  CC       libcurl_la-http_ntlm.lo
+[0;36mSanitizerCoveragePCGUARD++4.05a[0m
+[1;92m[+] [0mInstrumented 40 locations with no collisions (non-hardened mode) of which are 2 handled and 0 unhandled selects.[0m
+  CC       libcurl_la-curl_ntlm_wb.lo
+[0;36mSanitizerCoveragePCGUARD++4.05a[0m
+[1;92m[+] [0mInstrumented 98 locations with no collisions (non-hardened mode) of which are 2 handled and 0 unhandled selects.[0m
+  CC       libcurl_la-curl_ntlm_core.lo
+[0;36mSanitizerCoveragePCGUARD++4.05a[0m
+[1;92m[+] [0mInstrumented 37 locations with no collisions (non-hardened mode) of which are 0 handled and 0 unhandled selects.[0m
+  CC       libcurl_la-curl_sasl.lo
+[0;36mSanitizerCoveragePCGUARD++4.05a[0m
+[1;92m[+] [0mInstrumented 128 locations with no collisions (non-hardened mode) of which are 4 handled and 0 unhandled selects.[0m
+  CC       libcurl_la-rand.lo
+[0;36mSanitizerCoveragePCGUARD++4.05a[0m
+[1;92m[+] [0mInstrumented 21 locations with no collisions (non-hardened mode) of which are 0 handled and 0 unhandled selects.[0m
+  CC       libcurl_la-curl_multibyte.lo
+[0;36mSanitizerCoveragePCGUARD++4.05a[0m
+[1;93m[!] [1;97mWARNING: [0mNo instrumentation targets found.[0m
+  CC       libcurl_la-hostcheck.lo
+[0;36mSanitizerCoveragePCGUARD++4.05a[0m
+[1;92m[+] [0mInstrumented 34 locations with no collisions (non-hardened mode) of which are 3 handled and 0 unhandled selects.[0m
+  CC       libcurl_la-conncache.lo
+[0;36mSanitizerCoveragePCGUARD++4.05a[0m
+[1;92m[+] [0mInstrumented 122 locations with no collisions (non-hardened mode) of which are 2 handled and 0 unhandled selects.[0m
+  CC       libcurl_la-pipeline.lo
+[0;36mSanitizerCoveragePCGUARD++4.05a[0m
+[1;92m[+] [0mInstrumented 72 locations with no collisions (non-hardened mode) of which are 2 handled and 0 unhandled selects.[0m
+  CC       libcurl_la-dotdot.lo
+[0;36mSanitizerCoveragePCGUARD++4.05a[0m
+[1;92m[+] [0mInstrumented 25 locations with no collisions (non-hardened mode) of which are 0 handled and 0 unhandled selects.[0m
+  CC       libcurl_la-x509asn1.lo
+[0;36mSanitizerCoveragePCGUARD++4.05a[0m
+[1;93m[!] [1;97mWARNING: [0mNo instrumentation targets found.[0m
+  CC       libcurl_la-http2.lo
+[0;36mSanitizerCoveragePCGUARD++4.05a[0m
+[1;92m[+] [0mInstrumented 448 locations with no collisions (non-hardened mode) of which are 5 handled and 0 unhandled selects.[0m
+  CC       libcurl_la-smb.lo
+[0;36mSanitizerCoveragePCGUARD++4.05a[0m
+[1;92m[+] [0mInstrumented 159 locations with no collisions (non-hardened mode) of which are 1 handled and 0 unhandled selects.[0m
+  CC       libcurl_la-curl_endian.lo
+[0;36mSanitizerCoveragePCGUARD++4.05a[0m
+[1;92m[+] [0mInstrumented 5 locations with no collisions (non-hardened mode) of which are 0 handled and 0 unhandled selects.[0m
+  CC       libcurl_la-curl_des.lo
+[0;36mSanitizerCoveragePCGUARD++4.05a[0m
+[1;93m[!] [1;97mWARNING: [0mNo instrumentation targets found.[0m
+  CC       libcurl_la-system_win32.lo
+[0;36mSanitizerCoveragePCGUARD++4.05a[0m
+[1;93m[!] [1;97mWARNING: [0mNo instrumentation targets found.[0m
+  CC       libcurl_la-mime.lo
+[0;36mSanitizerCoveragePCGUARD++4.05a[0m
+[1;92m[+] [0mInstrumented 492 locations with no collisions (non-hardened mode) of which are 14 handled and 0 unhandled selects.[0m
+  CC       libcurl_la-sha256.lo
+[0;36mSanitizerCoveragePCGUARD++4.05a[0m
+[1;92m[+] [0mInstrumented 1 locations with no collisions (non-hardened mode) of which are 0 handled and 0 unhandled selects.[0m
+  CC       libcurl_la-setopt.lo
+[0;36mSanitizerCoveragePCGUARD++4.05a[0m
+[1;92m[+] [0mInstrumented 946 locations with no collisions (non-hardened mode) of which are 59 handled and 0 unhandled selects.[0m
+  CC       libcurl_la-curl_path.lo
+[0;36mSanitizerCoveragePCGUARD++4.05a[0m
+[1;92m[+] [0mInstrumented 38 locations with no collisions (non-hardened mode) of which are 0 handled and 0 unhandled selects.[0m
+  CC       libcurl_la-curl_ctype.lo
+[0;36mSanitizerCoveragePCGUARD++4.05a[0m
+[1;92m[+] [0mInstrumented 41 locations with no collisions (non-hardened mode) of which are 0 handled and 0 unhandled selects.[0m
+  CC       libcurl_la-curl_range.lo
+[0;36mSanitizerCoveragePCGUARD++4.05a[0m
+[1;92m[+] [0mInstrumented 19 locations with no collisions (non-hardened mode) of which are 0 handled and 0 unhandled selects.[0m
+  CC       libcurl_la-psl.lo
+[0;36mSanitizerCoveragePCGUARD++4.05a[0m
+[1;92m[+] [0mInstrumented 23 locations with no collisions (non-hardened mode) of which are 0 handled and 0 unhandled selects.[0m
+  CC       libcurl_la-doh.lo
+[0;36mSanitizerCoveragePCGUARD++4.05a[0m
+[1;92m[+] [0mInstrumented 194 locations with no collisions (non-hardened mode) of which are 3 handled and 0 unhandled selects.[0m
+  CC       libcurl_la-urlapi.lo
+[0;36mSanitizerCoveragePCGUARD++4.05a[0m
+[1;92m[+] [0mInstrumented 468 locations with no collisions (non-hardened mode) of which are 11 handled and 0 unhandled selects.[0m
+  CC       vauth/libcurl_la-vauth.lo
+[0;36mSanitizerCoveragePCGUARD++4.05a[0m
+[1;92m[+] [0mInstrumented 15 locations with no collisions (non-hardened mode) of which are 1 handled and 0 unhandled selects.[0m
+  CC       vauth/libcurl_la-cleartext.lo
+[0;36mSanitizerCoveragePCGUARD++4.05a[0m
+[1;92m[+] [0mInstrumented 10 locations with no collisions (non-hardened mode) of which are 0 handled and 0 unhandled selects.[0m
+  CC       vauth/libcurl_la-cram.lo
+[0;36mSanitizerCoveragePCGUARD++4.05a[0m
+[1;92m[+] [0mInstrumented 12 locations with no collisions (non-hardened mode) of which are 0 handled and 0 unhandled selects.[0m
+  CC       vauth/libcurl_la-digest.lo
+[0;36mSanitizerCoveragePCGUARD++4.05a[0m
+[1;92m[+] [0mInstrumented 181 locations with no collisions (non-hardened mode) of which are 0 handled and 0 unhandled selects.[0m
+  CC       vauth/libcurl_la-digest_sspi.lo
+[0;36mSanitizerCoveragePCGUARD++4.05a[0m
+[1;93m[!] [1;97mWARNING: [0mNo instrumentation targets found.[0m
+  CC       vauth/libcurl_la-krb5_gssapi.lo
+[0;36mSanitizerCoveragePCGUARD++4.05a[0m
+[1;93m[!] [1;97mWARNING: [0mNo instrumentation targets found.[0m
+  CC       vauth/libcurl_la-krb5_sspi.lo
+[0;36mSanitizerCoveragePCGUARD++4.05a[0m
+[1;93m[!] [1;97mWARNING: [0mNo instrumentation targets found.[0m
+  CC       vauth/libcurl_la-ntlm.lo
+[0;36mSanitizerCoveragePCGUARD++4.05a[0m
+[1;92m[+] [0mInstrumented 66 locations with no collisions (non-hardened mode) of which are 1 handled and 0 unhandled selects.[0m
+  CC       vauth/libcurl_la-ntlm_sspi.lo
+[0;36mSanitizerCoveragePCGUARD++4.05a[0m
+[1;93m[!] [1;97mWARNING: [0mNo instrumentation targets found.[0m
+  CC       vauth/libcurl_la-oauth2.lo
+[0;36mSanitizerCoveragePCGUARD++4.05a[0m
+[1;92m[+] [0mInstrumented 10 locations with no collisions (non-hardened mode) of which are 0 handled and 0 unhandled selects.[0m
+  CC       vauth/libcurl_la-spnego_gssapi.lo
+[0;36mSanitizerCoveragePCGUARD++4.05a[0m
+[1;93m[!] [1;97mWARNING: [0mNo instrumentation targets found.[0m
+  CC       vauth/libcurl_la-spnego_sspi.lo
+[0;36mSanitizerCoveragePCGUARD++4.05a[0m
+[1;93m[!] [1;97mWARNING: [0mNo instrumentation targets found.[0m
+  CC       vtls/libcurl_la-openssl.lo
+[0;36mSanitizerCoveragePCGUARD++4.05a[0m
+[1;92m[+] [0mInstrumented 931 locations with no collisions (non-hardened mode) of which are 51 handled and 0 unhandled selects.[0m
+  CC       vtls/libcurl_la-gtls.lo
+[0;36mSanitizerCoveragePCGUARD++4.05a[0m
+[1;93m[!] [1;97mWARNING: [0mNo instrumentation targets found.[0m
+  CC       vtls/libcurl_la-vtls.lo
+[0;36mSanitizerCoveragePCGUARD++4.05a[0m
+[1;92m[+] [0mInstrumented 315 locations with no collisions (non-hardened mode) of which are 2 handled and 0 unhandled selects.[0m
+  CC       vtls/libcurl_la-nss.lo
+[0;36mSanitizerCoveragePCGUARD++4.05a[0m
+[1;93m[!] [1;97mWARNING: [0mNo instrumentation targets found.[0m
+  CC       vtls/libcurl_la-polarssl.lo
+[0;36mSanitizerCoveragePCGUARD++4.05a[0m
+[1;93m[!] [1;97mWARNING: [0mNo instrumentation targets found.[0m
+  CC       vtls/libcurl_la-polarssl_threadlock.lo
+[0;36mSanitizerCoveragePCGUARD++4.05a[0m
+[1;93m[!] [1;97mWARNING: [0mNo instrumentation targets found.[0m
+  CC       vtls/libcurl_la-cyassl.lo
+[0;36mSanitizerCoveragePCGUARD++4.05a[0m
+[1;93m[!] [1;97mWARNING: [0mNo instrumentation targets found.[0m
+  CC       vtls/libcurl_la-schannel.lo
+[0;36mSanitizerCoveragePCGUARD++4.05a[0m
+[1;93m[!] [1;97mWARNING: [0mNo instrumentation targets found.[0m
+  CC       vtls/libcurl_la-schannel_verify.lo
+[0;36mSanitizerCoveragePCGUARD++4.05a[0m
+[1;93m[!] [1;97mWARNING: [0mNo instrumentation targets found.[0m
+  CC       vtls/libcurl_la-darwinssl.lo
+[0;36mSanitizerCoveragePCGUARD++4.05a[0m
+[1;93m[!] [1;97mWARNING: [0mNo instrumentation targets found.[0m
+  CC       vtls/libcurl_la-gskit.lo
+[0;36mSanitizerCoveragePCGUARD++4.05a[0m
+[1;93m[!] [1;97mWARNING: [0mNo instrumentation targets found.[0m
+  CC       vtls/libcurl_la-mbedtls.lo
+[0;36mSanitizerCoveragePCGUARD++4.05a[0m
+[1;93m[!] [1;97mWARNING: [0mNo instrumentation targets found.[0m
+  CC       vtls/libcurl_la-mesalink.lo
+[0;36mSanitizerCoveragePCGUARD++4.05a[0m
+[1;93m[!] [1;97mWARNING: [0mNo instrumentation targets found.[0m
+  CCLD     libcurl.la
+remake[2]: Leaving directory '/home/shank/code/research/compsac19/APIMU4C/curl-curl-7_63_0/lib'
+remake[1]: Leaving directory '/home/shank/code/research/compsac19/APIMU4C/curl-curl-7_63_0/lib'
+Making all in src
+remake[1]: Entering directory '/home/shank/code/research/compsac19/APIMU4C/curl-curl-7_63_0/src'
+Making all in ../docs
+remake[2]: Entering directory '/home/shank/code/research/compsac19/APIMU4C/curl-curl-7_63_0/docs'
+Making all in .
+remake[3]: Entering directory '/home/shank/code/research/compsac19/APIMU4C/curl-curl-7_63_0/docs'
+remake[3]: Nothing to be done for 'all-am'.
+remake[3]: Leaving directory '/home/shank/code/research/compsac19/APIMU4C/curl-curl-7_63_0/docs'
+Making all in cmdline-opts
+remake[3]: Entering directory '/home/shank/code/research/compsac19/APIMU4C/curl-curl-7_63_0/docs/cmdline-opts'
+remake[3]: Nothing to be done for 'all'.
+remake[3]: Leaving directory '/home/shank/code/research/compsac19/APIMU4C/curl-curl-7_63_0/docs/cmdline-opts'
+remake[2]: Leaving directory '/home/shank/code/research/compsac19/APIMU4C/curl-curl-7_63_0/docs'
+remake[2]: Entering directory '/home/shank/code/research/compsac19/APIMU4C/curl-curl-7_63_0/src'
+  CC       curl-slist_wc.o
+[0;36mSanitizerCoveragePCGUARD++4.05a[0m
+[1;92m[+] [0mInstrumented 8 locations with no collisions (non-hardened mode) of which are 0 handled and 0 unhandled selects.[0m
+  CC       curl-tool_binmode.o
+[0;36mSanitizerCoveragePCGUARD++4.05a[0m
+[1;93m[!] [1;97mWARNING: [0mNo instrumentation targets found.[0m
+  CC       curl-tool_bname.o
+[0;36mSanitizerCoveragePCGUARD++4.05a[0m
+[1;93m[!] [1;97mWARNING: [0mNo instrumentation targets found.[0m
+  CC       curl-tool_cb_dbg.o
+[0;36mSanitizerCoveragePCGUARD++4.05a[0m
+[1;92m[+] [0mInstrumented 77 locations with no collisions (non-hardened mode) of which are 2 handled and 0 unhandled selects.[0m
+  CC       curl-tool_cb_hdr.o
+[0;36mSanitizerCoveragePCGUARD++4.05a[0m
+[1;92m[+] [0mInstrumented 67 locations with no collisions (non-hardened mode) of which are 1 handled and 0 unhandled selects.[0m
+  CC       curl-tool_cb_prg.o
+[0;36mSanitizerCoveragePCGUARD++4.05a[0m
+[1;92m[+] [0mInstrumented 37 locations with no collisions (non-hardened mode) of which are 0 handled and 0 unhandled selects.[0m
+  CC       curl-tool_cb_rea.o
+[0;36mSanitizerCoveragePCGUARD++4.05a[0m
+[1;92m[+] [0mInstrumented 4 locations with no collisions (non-hardened mode) of which are 0 handled and 0 unhandled selects.[0m
+  CC       curl-tool_cb_see.o
+[0;36mSanitizerCoveragePCGUARD++4.05a[0m
+[1;92m[+] [0mInstrumented 3 locations with no collisions (non-hardened mode) of which are 0 handled and 0 unhandled selects.[0m
+  CC       curl-tool_cb_wrt.o
+[0;36mSanitizerCoveragePCGUARD++4.05a[0m
+[1;92m[+] [0mInstrumented 29 locations with no collisions (non-hardened mode) of which are 2 handled and 0 unhandled selects.[0m
+  CC       curl-tool_cfgable.o
+[0;36mSanitizerCoveragePCGUARD++4.05a[0m
+[1;92m[+] [0mInstrumented 9 locations with no collisions (non-hardened mode) of which are 0 handled and 0 unhandled selects.[0m
+  CC       curl-tool_convert.o
+[0;36mSanitizerCoveragePCGUARD++4.05a[0m
+[1;93m[!] [1;97mWARNING: [0mNo instrumentation targets found.[0m
+  CC       curl-tool_dirhie.o
+[0;36mSanitizerCoveragePCGUARD++4.05a[0m
+[1;92m[+] [0mInstrumented 19 locations with no collisions (non-hardened mode) of which are 0 handled and 0 unhandled selects.[0m
+  CC       curl-tool_doswin.o
+[0;36mSanitizerCoveragePCGUARD++4.05a[0m
+[1;93m[!] [1;97mWARNING: [0mNo instrumentation targets found.[0m
+  CC       curl-tool_easysrc.o
+[0;36mSanitizerCoveragePCGUARD++4.05a[0m
+[1;92m[+] [0mInstrumented 52 locations with no collisions (non-hardened mode) of which are 0 handled and 0 unhandled selects.[0m
+  CC       curl-tool_filetime.o
+[0;36mSanitizerCoveragePCGUARD++4.05a[0m
+[1;92m[+] [0mInstrumented 8 locations with no collisions (non-hardened mode) of which are 0 handled and 0 unhandled selects.[0m
+  CC       curl-tool_formparse.o
+[0;36mSanitizerCoveragePCGUARD++4.05a[0m
+[1;92m[+] [0mInstrumented 257 locations with no collisions (non-hardened mode) of which are 0 handled and 0 unhandled selects.[0m
+  CC       curl-tool_getparam.o
+[0;36mSanitizerCoveragePCGUARD++4.05a[0m
+[1;92m[+] [0mInstrumented 972 locations with no collisions (non-hardened mode) of which are 12 handled and 0 unhandled selects.[0m
+  CC       curl-tool_getpass.o
+[0;36mSanitizerCoveragePCGUARD++4.05a[0m
+[1;92m[+] [0mInstrumented 12 locations with no collisions (non-hardened mode) of which are 0 handled and 0 unhandled selects.[0m
+  CC       curl-tool_help.o
+[0;36mSanitizerCoveragePCGUARD++4.05a[0m
+[1;92m[+] [0mInstrumented 16 locations with no collisions (non-hardened mode) of which are 0 handled and 0 unhandled selects.[0m
+  CC       curl-tool_helpers.o
+[0;36mSanitizerCoveragePCGUARD++4.05a[0m
+[1;92m[+] [0mInstrumented 23 locations with no collisions (non-hardened mode) of which are 0 handled and 0 unhandled selects.[0m
+  CC       curl-tool_homedir.o
+[0;36mSanitizerCoveragePCGUARD++4.05a[0m
+[1;92m[+] [0mInstrumented 11 locations with no collisions (non-hardened mode) of which are 0 handled and 0 unhandled selects.[0m
+  CC       curl-tool_hugehelp.o
+[0;36mSanitizerCoveragePCGUARD++4.05a[0m
+[1;92m[+] [0mInstrumented 11 locations with no collisions (non-hardened mode) of which are 0 handled and 0 unhandled selects.[0m
+  CC       curl-tool_libinfo.o
+[0;36mSanitizerCoveragePCGUARD++4.05a[0m
+[1;92m[+] [0mInstrumented 8 locations with no collisions (non-hardened mode) of which are 0 handled and 0 unhandled selects.[0m
+  CC       curl-tool_main.o
+[0;36mSanitizerCoveragePCGUARD++4.05a[0m
+[1;92m[+] [0mInstrumented 30 locations with no collisions (non-hardened mode) of which are 0 handled and 0 unhandled selects.[0m
+  CC       curl-tool_metalink.o
+[0;36mSanitizerCoveragePCGUARD++4.05a[0m
+[1;93m[!] [1;97mWARNING: [0mNo instrumentation targets found.[0m
+  CC       curl-tool_msgs.o
+[0;36mSanitizerCoveragePCGUARD++4.05a[0m
+[1;92m[+] [0mInstrumented 17 locations with no collisions (non-hardened mode) of which are 0 handled and 0 unhandled selects.[0m
+  CC       curl-tool_operate.o
+[0;36mSanitizerCoveragePCGUARD++4.05a[0m
+[1;92m[+] [0mInstrumented 819 locations with no collisions (non-hardened mode) of which are 21 handled and 0 unhandled selects.[0m
+  CC       curl-tool_operhlp.o
+[0;36mSanitizerCoveragePCGUARD++4.05a[0m
+[1;92m[+] [0mInstrumented 40 locations with no collisions (non-hardened mode) of which are 1 handled and 0 unhandled selects.[0m
+  CC       curl-tool_panykey.o
+[0;36mSanitizerCoveragePCGUARD++4.05a[0m
+[1;93m[!] [1;97mWARNING: [0mNo instrumentation targets found.[0m
+  CC       curl-tool_paramhlp.o
+[0;36mSanitizerCoveragePCGUARD++4.05a[0m
+[1;92m[+] [0mInstrumented 131 locations with no collisions (non-hardened mode) of which are 1 handled and 0 unhandled selects.[0m
+  CC       curl-tool_parsecfg.o
+[0;36mSanitizerCoveragePCGUARD++4.05a[0m
+[1;92m[+] [0mInstrumented 99 locations with no collisions (non-hardened mode) of which are 1 handled and 0 unhandled selects.[0m
+  CC       curl-tool_strdup.o
+[0;36mSanitizerCoveragePCGUARD++4.05a[0m
+[1;93m[!] [1;97mWARNING: [0mNo instrumentation targets found.[0m
+  CC       curl-tool_setopt.o
+[0;36mSanitizerCoveragePCGUARD++4.05a[0m
+[1;92m[+] [0mInstrumented 180 locations with no collisions (non-hardened mode) of which are 3 handled and 0 unhandled selects.[0m
+  CC       curl-tool_sleep.o
+[0;36mSanitizerCoveragePCGUARD++4.05a[0m
+[1;92m[+] [0mInstrumented 1 locations with no collisions (non-hardened mode) of which are 0 handled and 0 unhandled selects.[0m
+  CC       curl-tool_urlglob.o
+[0;36mSanitizerCoveragePCGUARD++4.05a[0m
+[1;92m[+] [0mInstrumented 173 locations with no collisions (non-hardened mode) of which are 1 handled and 0 unhandled selects.[0m
+  CC       curl-tool_util.o
+[0;36mSanitizerCoveragePCGUARD++4.05a[0m
+[1;92m[+] [0mInstrumented 4 locations with no collisions (non-hardened mode) of which are 0 handled and 0 unhandled selects.[0m
+  CC       curl-tool_vms.o
+[0;36mSanitizerCoveragePCGUARD++4.05a[0m
+[1;93m[!] [1;97mWARNING: [0mNo instrumentation targets found.[0m
+  CC       curl-tool_writeout.o
+[0;36mSanitizerCoveragePCGUARD++4.05a[0m
+[1;92m[+] [0mInstrumented 89 locations with no collisions (non-hardened mode) of which are 0 handled and 0 unhandled selects.[0m
+  CC       curl-tool_xattr.o
+[0;36mSanitizerCoveragePCGUARD++4.05a[0m
+[1;92m[+] [0mInstrumented 7 locations with no collisions (non-hardened mode) of which are 0 handled and 0 unhandled selects.[0m
+  CC       ../lib/curl-strtoofft.o
+[0;36mSanitizerCoveragePCGUARD++4.05a[0m
+[1;92m[+] [0mInstrumented 11 locations with no collisions (non-hardened mode) of which are 0 handled and 0 unhandled selects.[0m
+  CC       ../lib/curl-nonblock.o
+[0;36mSanitizerCoveragePCGUARD++4.05a[0m
+[1;92m[+] [0mInstrumented 3 locations with no collisions (non-hardened mode) of which are 0 handled and 0 unhandled selects.[0m
+  CC       ../lib/curl-warnless.o
+[0;36mSanitizerCoveragePCGUARD++4.05a[0m
+[1;92m[+] [0mInstrumented 33 locations with no collisions (non-hardened mode) of which are 0 handled and 0 unhandled selects.[0m
+  CC       ../lib/curl-curl_ctype.o
+[0;36mSanitizerCoveragePCGUARD++4.05a[0m
+[1;92m[+] [0mInstrumented 41 locations with no collisions (non-hardened mode) of which are 0 handled and 0 unhandled selects.[0m
+  CCLD     curl
+remake[2]: Leaving directory '/home/shank/code/research/compsac19/APIMU4C/curl-curl-7_63_0/src'
+remake[1]: Leaving directory '/home/shank/code/research/compsac19/APIMU4C/curl-curl-7_63_0/src'
+remake[1]: Entering directory '/home/shank/code/research/compsac19/APIMU4C/curl-curl-7_63_0'
+remake[1]: Nothing to be done for 'all-am'.
+remake[1]: Leaving directory '/home/shank/code/research/compsac19/APIMU4C/curl-curl-7_63_0'
